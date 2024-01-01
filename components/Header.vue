@@ -14,6 +14,9 @@
               >
               <UIcon name="i-heroicons-light-bulb" />
               </ULink>
+              <UButton to="https://nvhshop-adpanel.onrender.com">
+                admin deploy ở đây
+              </UButton>
               <ULink
                 class="flex justify-center items-center"
                 to="/aaaa"
