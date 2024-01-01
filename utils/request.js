@@ -4,7 +4,7 @@ import { useLocalStorage } from "@vueuse/core";
 
 
 const request = axios.create({
-  baseURL: "https://mevn-api.onrender.com/v1",
+  baseURL: "https://mevn-api-xh9x.onrender.com/v1",
   // headers: {Authorization: auth.token}
   withCredentials: true
 });
