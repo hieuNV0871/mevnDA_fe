@@ -50,6 +50,9 @@
               </div>
               <UDivider/>
             </div>
+            <div v-if="myOrders.length === 0">
+                khong co
+            </div>
         </UContainer>
     </UserLayout>
 </template>
