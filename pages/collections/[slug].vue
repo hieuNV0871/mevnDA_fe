@@ -12,7 +12,7 @@
                     <div class="py-0">
                       <div>
                         <ULink :to="`/product/${item.productId || item._id}`">
-                          <img class="" :src="item.images[0].src" alt="">
+                          <img class="w-full h-[200px]" :src="item.images[0].src" alt="">
                         </ULink>
                       </div>
                       <UDivider label="hieunv"/>
